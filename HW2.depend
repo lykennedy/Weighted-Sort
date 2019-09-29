@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1551038286 source:c:\users\kennedy\desktop\parallel programming\hw2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1550442474 source:d:\parallel\hw2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1554520939 source:c:\users\kennedy\desktop\yuh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
